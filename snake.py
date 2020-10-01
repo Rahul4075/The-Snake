@@ -13,7 +13,7 @@ green=(0,150,0)
 blue=(0,0,250)
 clock=pygame.time.Clock()
 
-scale=20
+scale=21
 
 playerx=random.choice(range(0,580,20))
 playery=random.choice(range(0,580,20))
